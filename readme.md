@@ -1,4 +1,4 @@
-## 👩 Hello There
+## Hello There
 
 Eu sou Alessandro Camargo
  
