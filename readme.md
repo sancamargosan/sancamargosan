@@ -6,7 +6,7 @@ Desenvolvedor FrontEnd
 
 Formado em ADS 
 
-Meu foco atualmente esta em FullStack JavaScript
+Meu foco atualmente esta em FullStack Python
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sancamargosan&show_icons=true&theme=tokyonight"/>
@@ -29,5 +29,6 @@ Meu foco atualmente esta em FullStack JavaScript
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="center"  height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+<img align="center"  height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 </div>
