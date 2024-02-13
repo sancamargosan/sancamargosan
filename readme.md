@@ -6,7 +6,7 @@ FrontEnd Developer
 
 Graduated in Systems Analysis and Development
 
-My focus is FrontEn Development
+My focus is FrontEnd Development
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sancamargosan&show_icons=true&theme=tokyonight"/>
